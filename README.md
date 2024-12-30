@@ -21,3 +21,6 @@ function password {
 }
 ```
 
+## TODOs:
+- Add functionality to save passwords to a sqlite database.
+- Compile code to a binary with cython so a python interpretter is not required to run the scripts.
